@@ -1,0 +1,1 @@
+export const Skills = () => <section className='p-6'>Skills section coming soon.</section>;

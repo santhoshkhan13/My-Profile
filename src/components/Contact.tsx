@@ -1,0 +1,1 @@
+export const Contact = () => <section className='p-6'>Contact section coming soon.</section>;

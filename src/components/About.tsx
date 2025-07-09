@@ -1,0 +1,1 @@
+export const About = () => <section className='p-6'>About me section coming soon.</section>;
